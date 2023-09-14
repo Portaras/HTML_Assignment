@@ -1,0 +1,154 @@
+                                       Quiz
+                             
+
+	•	What does HTML stand for?
+	•	Hyper Transfer Text Markup Language
+	•	Hyper Text Makeup Language
+	•	Hyper Text Markup Language
+	•	 High Transferable Markup Language
+Answer: c) Hyper Text Markup Language
+
+   2. Which programming language is used to create the  structure and content of web pages?
+	•	 JavaScript
+	•	 CSS
+	•	Python
+	•	HTML
+Answer: d) HTML
+
+3. What is the purpose of the <!DOCTYPE> declaration in an HTML document?
+	•	It defines the character encoding for the document.
+	•	 It specifies the version of HTML being used.
+	•	It links external stylesheets.
+	•	It declares the document type and version of HTML.
+Answer: d) It declares the document type and version of HTML
+
+4. Which HTML element is used to group the content inside the document's head?
+	•	 <body>
+	•	<head>
+	•	 <title>
+	•	<html>
+Answer: b) <head>
+
+
+5. Which HTML element is used to define the main content of a web page?
+	•	 <html>
+	•	 <main>
+	•	<header>
+	•	<content>
+Answer: b) <main>
+
+6. Which tool is used to automatically format your code for consistent style and readability?
+	•	 Live Server
+	•	 ESLint
+	•	 Prettier
+	•	 Material Icon Theme
+Answer: c) Prettier
+
+7. What is the purpose of using comments in HTML?
+	•	 To execute code
+	•	 To create hyperlinks
+	•	To add explanations or notes to the code
+	•	 To style the content
+Answer: c) To add explanations or notes to the code
+
+8. What is the purpose of a multi-line comment in HTML?
+	•	 To include external scripts
+	•	 To create hyperlinks
+	•	To group elements
+	•	 To add a block of explanatory text
+Answer: d) To add a block of explanatory text
+
+
+
+9. Which tool provides a development server that automatically reloads the page when you save changes to the code?
+	•	 Live Server
+	•	Prettier
+	•	ESLint
+	•	Material Icon Theme
+Answer: a) Live Server
+
+
+10. Which HTML element is used to create a new paragraph?
+	•	 <par>
+	•	<p>
+	•	<paragraph>
+	•	 <para>
+Answer: b) <p>
+
+11. What is the purpose of the <hr> element in HTML?
+	•	 It adds a new heading.
+	•	 It creates a horizontal line or thematic break.
+	•	It groups content together.
+	•	 It highlights text.
+Answer: b) It creates a horizontal line or thematic break.
+
+12. Which HTML tag is used to insert a line break within a text?
+	•	 <lb>
+	•	<br>
+	•	<line>
+	•	<newline>
+Answer: b) <br>
+
+
+
+13. Which HTML tag is used to define a division or section that can contain other elements?
+	•	 <division>
+	•	 <p>
+	•	<group>
+	•	 <div>
+Answer: d) <div>
+
+14.Which of the following elements is used to define headings in HTML?
+	•	 <hd>
+	•	 <heading>
+	•	<h>
+	•	<h1>
+Answer: d) <h1>
+
+15. Which HTML tag is used to insert a thematic break or horizontal line?
+	•	 <line>
+	•	 <br>
+	•	<hr>
+	•	 <thematic>
+Answer: c) <hr>
+
+16. Which of the following is the correct order of the basic structure of an HTML document?
+	•	 <html>, <head>, <body>
+	•	 <head>, <html>, <body>
+	•	 <body>, <html>, <head>
+	•	 <head>, <body>, <html>
+Answer: a) <html>, <head>, <body>
+
+17. Which tool helps ensure consistent code style and catch potential issues in JavaScript code?
+	•	 Live Server
+	•	Prettier
+	•	 ESLint
+	•	 Material Icon Theme
+Answer: c) ESLint
+
+18. What is the correct format for an HTML tag?
+	•	 <tag-name/>
+	•	 <tag-name></tag-name>
+	•	</tag-name>
+	•	 </tag-name/>
+Answer: b) <tag-name></tag-name>
+
+19. Which of the following is a valid HTML comment?
+	•	 <!-- This is a comment -->
+	•	 /* This is a comment */
+	•	// This is a comment
+	•	 ** This is a comment
+**Answer: a) <!-- This is a comment -->
+
+
+20. What is the purpose of the <title> element in the <head> section of an HTML document?
+	•	 To define the main content of the document
+	•	 To provide styling for the document
+	•	 To display a title in the browser's title bar or tab
+	•	 To define a hyperlink
+Answer: c) To display a title in the browser's title bar or tab
+
+
+
+
+
